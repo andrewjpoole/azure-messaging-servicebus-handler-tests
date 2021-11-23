@@ -1,7 +1,7 @@
 ﻿using System;
 using Azure.Messaging.ServiceBus;
+using AzureMessagingServiceBusTestSupport;
 using ServicebusMessageHandler;
-using AzureMessagingServiceBusTestsSupport;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.TestHost;
 using Microsoft.Extensions.DependencyInjection;

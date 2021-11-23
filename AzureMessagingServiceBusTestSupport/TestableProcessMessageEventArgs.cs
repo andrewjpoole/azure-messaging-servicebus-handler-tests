@@ -1,6 +1,6 @@
 ﻿using Azure.Messaging.ServiceBus;
 
-namespace AzureMessagingServiceBusTestsSupport
+namespace AzureMessagingServiceBusTestSupport
 {
     public class TestableProcessMessageEventArgs : ProcessMessageEventArgs
     {

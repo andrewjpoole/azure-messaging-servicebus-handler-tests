@@ -1,7 +1,7 @@
-﻿using Azure.Messaging.ServiceBus;
-using System.Text.Json;
+﻿using System.Text.Json;
+using Azure.Messaging.ServiceBus;
 
-namespace AzureMessagingServiceBusTestsSupport
+namespace AzureMessagingServiceBusTestSupport
 {
     public class TestableServiceBusProcessor : ServiceBusProcessor
     {
